@@ -1,0 +1,48 @@
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 8px;
+    border: 1px solid gray;S
+    outline: none;
+}
+
+
+form{
+    text-align: center;
+    width: 500px;
+    border: 1px solid #000;
+    border-radius: 6px;
+}
+title{
+text-align: center;
+color: rgb(63, 63, 227);
+}
+
+desc{
+    text-align: center;
+    width: 280px;
+    font-size: 18px;
+    font-weight: 700;
+}
+    
+
+button{
+    background-color: rgb(63, 63, 227);
+    color: white;
+    width: 300px;
+    height: 30px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    outline: none;
+}
+link{
+    text-decoration: none;
+    color: rgb(125, 0, 249);
+ border-bottom: 1px solid rgb(63, 63, 227);
+ padding-bottom: 10px;  
+}
+.green{
+    background-color: green;
+    color: aliceblue;
+    padding-left: 30px;
+}
